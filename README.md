@@ -1,11 +1,11 @@
-<h3>Welcome! I'm a programming student and i live in Brazil, further i pretend to be an fullstack developer and keep my programming studies.</h3>
+<h2>Welcome! I'm a programming student and i live in Brazil, further i pretend to be an fullstack developer and keep my programming studies.</h2>
 <div style="display: inline_block"><br>
-<h2><strong>MY SKILLS:</h2>
+<h3><strong>MY SKILLS:</h3>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="mySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<h2><strong>LEARNING:</h2>
+<h3><strong>LEARNING:</h3>
   <img align="center" alt="PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.svg"/>
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
