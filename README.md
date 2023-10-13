@@ -1,6 +1,5 @@
 <h2>Welcome! I'm a programming student and i live in Brazil, further i pretend to be an fullstack developer and keep my programming studies.</h2>
 <div style="display: inline_block"><br>
-<hr>
 <h3><strong>MY SKILLS:</h3>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
