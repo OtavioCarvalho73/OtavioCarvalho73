@@ -16,7 +16,6 @@
 </div>
   <h3><strong>SOCIAL MEDIA:</h3>
 <div> 
-  <a href="https://www.instagram.com/adam.documentary/" target="_blank"><img src="https://icones.pro/wp-content/uploads/2021/02/instagram-logo-icone4.png" target="_blank" height="50" ></a>
   <a href="https://github.com/OtavioCarvalho73" target="_blank"><img src="https://www.americanexecutivecenters.com/wp-content/uploads/2015/10/LinkedIn-Button.png" target="_blank" height="50"></a>
 </div>
 
